@@ -29,20 +29,16 @@ namespace lab1 {
             
             student first = new student();
             student second = new student();
-            student three = new student();
             Console.WriteLine("Впишите имя и фамилию трех студентов и их оценки за контрольную работу: ");
             first.name = name(first.name);
             first.mark = mark(first.mark);
             second.name = name(second.name);
             second.mark = mark(second.mark);
-            three.name = name(three.name);
-            three.mark = mark(three.mark);
             Console.WriteLine("Если хотите проверить журнал, нажмите 'y': ");
             char choice = Convert.ToChar(Console.ReadLine());
             if (choice == 'y') {
                 Print(first.name, first.mark);
                 Print(second.name, second.mark);
-                Print(three.name, three.mark);
             }
         }
     }
