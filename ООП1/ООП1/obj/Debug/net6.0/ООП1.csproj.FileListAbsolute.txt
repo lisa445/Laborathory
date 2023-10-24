@@ -28,3 +28,11 @@ C:\Users\lisav\Desktop\ООП\ООП1\ООП1\ООП1\obj\Debug\net6.0\refint\О
 C:\Users\lisav\Desktop\ООП\ООП1\ООП1\ООП1\obj\Debug\net6.0\ООП1.pdb
 C:\Users\lisav\Desktop\ООП\ООП1\ООП1\ООП1\obj\Debug\net6.0\ООП1.genruntimeconfig.cache
 C:\Users\lisav\Desktop\ООП\ООП1\ООП1\ООП1\obj\Debug\net6.0\ref\ООП1.dll
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.csproj.AssemblyReference.cache
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.AssemblyInfoInputs.cache
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.AssemblyInfo.cs
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.csproj.CoreCompileInputs.cache
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.dll
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\refint\ООП1.dll
+C:\Users\lisav\laborathory\ООП1\ООП1\obj\Debug\net6.0\ООП1.pdb

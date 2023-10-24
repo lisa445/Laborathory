@@ -41,7 +41,7 @@ namespace lab1 {
             char choice = Convert.ToChar(Console.ReadLine());
             if (choice == 'y') {
                 Print(first.name, first.mark);
-                Print(second.name, second.mark);
+                Print(forth.name, second.mark);
                 Print(three.name, three.mark);
             }
         }
